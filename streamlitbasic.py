@@ -19,9 +19,9 @@ st.set_page_config(
 
 st.title("A.V.C. College of Engineering")
 
-st.header("Hello World")
+st.header("Computer Science DEpartment")
 
-st.subheader("Hello World")
+st.subheader("Nan Muthalvan - ChatGPT")
 
 st.text("Hello World")
 
